@@ -94,21 +94,21 @@ Apart from the examples, there is one synthetic test case so far:
 # License / Copyright
 
  ********************************************************
- *                                                      *
- * Efficient Subwindow Search (ESS) implemention in C++ *
- * entry point and commmand line interface              *
- *                                                      *
- * version 1.0, March 27th 2008                         *
- *   first release, except bugfixes soon                *
- *                                                      *
- *   Copyright 2006-2008 Christoph Lampert              *
- *   Contact: <mail@christoph-lampert.org>              *
- *                                                      *
- *  Performs a branch-and-bound search for an arbitrary *
- *  quality function, provided a routine to bound it:   *
- *  see  C. H. Lampert, M. B. Blaschko and T. Hofmann:  *
- *       Beyond Sliding Windows: Object Localization    *
- *       by Efficient Subwindow Search, CVPR (2008)     *
- *                                                      *
+
+ Efficient Subwindow Search (ESS) implemention in C++ 
+ entry point and commmand line interface              
+                                                        
+ version 1.0, March 27th 2008                         
+   first release, except bugfixes soon                
+                                                        
+   Copyright 2006-2008 Christoph Lampert             
+   Contact: <mail@christoph-lampert.org>              
+                                                        
+ Performs a branch-and-bound search for an arbitrary 
+ quality function, provided a routine to bound it:   
+ see  C. H. Lampert, M. B. Blaschko and T. Hofmann:  
+  "Beyond Sliding Windows: Object Localization    
+   by Efficient Subwindow Search, CVPR (2008)"
+                                                        
  ********************************************************
 
